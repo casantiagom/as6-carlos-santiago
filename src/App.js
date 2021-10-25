@@ -5,7 +5,6 @@ import Navbar from "./components/Navbar";
 import Home from "./pages/Home";
 import About from "./pages/About";
 import NotFound from "./pages/NotFound";
-import axios from "axios";
 
 function App() {
   return (
